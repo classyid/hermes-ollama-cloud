@@ -29,6 +29,7 @@ Model tidak diunduh ke disk dan tidak memakai GPU/RAM lokal.
 | 5 | [Troubleshooting](docs/05-troubleshooting.md) | Error yang pernah terjadi dan solusinya |
 | 6 | [Laporan validasi](docs/06-laporan-validasi.md) | Hasil pemeriksaan & perbaikan 30 Okt 2026 |
 | 7 | [Naskah video motion](docs/07-naskah-video-motion.md) | Storyboard 12 adegan (±90 detik, 9:16), narasi, aset |
+| 8 | [Bahan artikel](docs/08-bahan-artikel.md) | Pilihan judul, kata kunci SEO, draf artikel, daftar gambar |
 
 Skrip: [`scripts/cek-kesehatan.sh`](scripts/cek-kesehatan.sh) memeriksa seluruh
 rantai (Ollama → model cloud → tool calling → konfigurasi Hermes → jawaban
